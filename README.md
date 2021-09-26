@@ -7,14 +7,26 @@
 ### <img src="https://media0.giphy.com/media/B6IBrYTyvo1UJOXF9u/giphy.gif?cid=ecf05e47bflm7ts1js5hjhx970qe0g7tomqf4jij6h2jh59w&rid=giphy.gif&ct=g" width="50"> A little more about me...  
 
 ```javascript
-const migue = {
-  pronouns: "He" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Angular, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-
- challenge: "I am doing the #100DaysOfCode challenge focused on React and typescript"
-}
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "CSS", "HTML", "php", "Deluge"],
+    askMeAbout: ["web dev", "engineer", "electronic designer", "3D Modeler"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Angular", "React"],
+            css: ["materialize", "vuetify", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "SuiteScript"],
+            python: ["flask"]
+        },
+        devOps: ["Docker🐳"],
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase","open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"]
+};
 ```
 
 
