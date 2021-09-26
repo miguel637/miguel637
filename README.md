@@ -4,7 +4,7 @@
 </em></p>
 
 
-### <img src="https://giphy.com/embed/nUg011pWqiUReijzrH" width="50"> A little more about me...  
+### <img src="https://media0.giphy.com/media/B6IBrYTyvo1UJOXF9u/giphy.gif?cid=ecf05e47bflm7ts1js5hjhx970qe0g7tomqf4jij6h2jh59w&rid=giphy.gif&ct=g" width="50"> A little more about me...  
 
 ```javascript
 const migue = {
